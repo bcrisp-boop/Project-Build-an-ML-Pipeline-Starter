@@ -6,6 +6,8 @@ to be retrained with the same cadence, necessitating an end-to-end pipeline that
 
 In this project you will build such a pipeline.
 
+Weights and Bias project: https://forge.coreweave.com/wandb/b-crispin-wgu/nyc_airbnb?nw=nwuserbcrispin
+
 ## Table of contents
 
 - [Preliminary steps](#preliminary-steps)
